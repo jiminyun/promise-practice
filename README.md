@@ -1,4 +1,4 @@
-#J avascript Promises
+#Javascript Promises
 
 ## What is a promise?
 
